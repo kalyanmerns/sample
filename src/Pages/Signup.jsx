@@ -33,7 +33,7 @@ const AnimeSignup=()=> {
   }
 
   return (
-    <div className="min-h-screen  flex items-center justify-center bg-[url('https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA4L3Jhd3BpeGVsb2ZmaWNlMjBfM2RfbW9kZXJuX3dhdmVfY3VydmVfYWJzdHJhY3RfaGFsZnRvbmVfZ3JhZGllbl8xZTJhY2M3Mi1jZTU3LTQ0NjItOGQzNS1lOTI4YzI5NzcxMTdfMS5qcGc.jpg')] bg-cover bg-center">
+    <div className="min-h-screen  flex items-center justify-center cover bg-[url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUMwXwLxYZJ9aqo3S1TnX1S1yYPwDMM2hPuQ&s')] bg-cover bg-center">
 
       
       <div className="backdrop-blur-xl flex justify-center flex-wrap items-center bg-white border border-white/20 shadow-xl rounded-2xl p-8   text-white">
